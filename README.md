@@ -10,3 +10,8 @@
 
 ![초기화면](https://user-images.githubusercontent.com/60810356/85218942-3adc9b00-b3da-11ea-9d4b-c21cea569ef1.JPG)
 
+- 회차입력
+
+![숫자입력](https://user-images.githubusercontent.com/60810356/85218981-bc342d80-b3da-11ea-8a43-1bf60210dcb9.JPG)
+
+
