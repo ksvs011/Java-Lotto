@@ -1,9 +1,28 @@
 # Java-Lotto
+### 화면 구현 및 상세 내용   
+![상세내용](https://user-images.githubusercontent.com/60810356/86869296-45549f80-c111-11ea-8f3a-9ecafbb85b4d.JPG)   
+
+- dateLbl - 
+- plusLbl - 
+- mbt -
+- turnTxt -
+- checkBtn -
+- turnLbl -
+- numberLbl -
+- mnum -
+- okBtn -
+- claerBtn -
+- rankLbl -
+
+
+***
 
 ### 주요기능
 - 나눔 로또 api를 받아와 번호 로딩
 - 출력받은 번호와 비교하여 당첨 여부 가능
 - 번호의 구간마다 다른색상 출력
+
+***
 
 ### 결과
 
@@ -14,6 +33,13 @@
 - 회차입력  
 
 ![숫자입력](https://user-images.githubusercontent.com/60810356/85218981-bc342d80-b3da-11ea-8a43-1bf60210dcb9.JPG)
+
+- 오류테스트
+  + 문자를 입력했을 경우   
+![문자입력](https://user-images.githubusercontent.com/60810356/86870228-f3147e00-c112-11ea-9fc7-905c3aac06f8.JPG)
+
+  + 없는 숫자를 입력했을 경우   
+![없는 숫자](https://user-images.githubusercontent.com/60810356/86870232-f4de4180-c112-11ea-98b8-457700a798ea.JPG)
 
 - 당첨   
 
