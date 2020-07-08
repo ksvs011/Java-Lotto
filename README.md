@@ -17,7 +17,13 @@
 
 - 당첨   
 
-![1등](https://user-images.githubusercontent.com/60810356/85219012-fb627e80-b3da-11ea-84ca-b18b8708e951.JPG)
+<div>   
+<img width="50%" src="https://user-images.githubusercontent.com/60810356/85219012-fb627e80-b3da-11ea-84ca-b18b8708e951.JPG">
+<img width="50%" src="https://user-images.githubusercontent.com/60810356/85219012-fb627e80-b3da-11ea-84ca-b18b8708e951.JPG">
+<img width="50%" src="https://user-images.githubusercontent.com/60810356/85219012-fb627e80-b3da-11ea-84ca-b18b8708e951.JPG">
+<img width="50%" src="https://user-images.githubusercontent.com/60810356/85219012-fb627e80-b3da-11ea-84ca-b18b8708e951.JPG">
+<img width="50%" src="https://user-images.githubusercontent.com/60810356/85219012-fb627e80-b3da-11ea-84ca-b18b8708e951.JPG">
+</div>
 
 
 
