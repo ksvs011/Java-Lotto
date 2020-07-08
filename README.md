@@ -2,18 +2,16 @@
 ### 화면 구현 및 상세 내용   
 ![상세내용](https://user-images.githubusercontent.com/60810356/86869296-45549f80-c111-11ea-8f3a-9ecafbb85b4d.JPG)   
 
-- dateLbl - 
-- plusLbl - 
-- mbt -
-- turnTxt -
-- checkBtn -
-- turnLbl -
-- numberLbl -
-- mnum -
-- okBtn -
-- claerBtn -
-- rankLbl -
-
+- dateLbl - 날짜 라벨
+- plusLbl - plus 그림
+- mbt - 로도 당첨 번호 배열
+- turnTxt - 회차 입력 창
+- checkBtn - 회차이동 버튼
+- turnLbl - 오류 문구 라벨
+- mnum - 비교할 번호 배열
+- okBtn - 확인 버튼
+- claerBtn - 검색 버튼
+- rankLbl - 순위 문구 라벨
 
 ***
 
